@@ -15,8 +15,8 @@ const defaultMenu = {
   body: '├ %cmd %islimit %isPremium',
   footer: '└────\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
+*BOT ISMAIL KURAMA*
+${'```KURAMA-BOTZ```'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
